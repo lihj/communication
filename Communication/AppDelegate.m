@@ -41,7 +41,7 @@
 
 - (void)customizeInterface {
     UINavigationBar *navigationBarAppearance = [UINavigationBar appearance];
-    [navigationBarAppearance setBackgroundImage:[UIImage imageWithColor:kRGBCOLOR(254, 84, 0)] forBarMetrics:UIBarMetricsDefault];
+    [navigationBarAppearance setBackgroundImage:[UIImage imageWithColor:kRGBCOLOR(254, 84, 100)] forBarMetrics:UIBarMetricsDefault];
     
     //    可以去除NavBar下面那条线
     //    if ([UINavigationBar instancesRespondToSelector:@selector(setShadowImage:)]) {
