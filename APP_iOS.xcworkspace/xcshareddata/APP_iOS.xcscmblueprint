@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4B9EC836FFBC645FCC14B43F1E36A99009650F59",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4B9EC836FFBC645FCC14B43F1E36A99009650F59" : 0,
+    "AA5C273CFA801B320EEA8DF516882DF0E919D33C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "50076315-4605-40EF-8A45-4FAABDE1F89C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4B9EC836FFBC645FCC14B43F1E36A99009650F59" : "APP_iOS",
+    "AA5C273CFA801B320EEA8DF516882DF0E919D33C" : "..\/Bolun\/APP_iOS"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "APP_iOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "APP_iOS.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/591\/APP_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B9EC836FFBC645FCC14B43F1E36A99009650F59"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lihj\/APP_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA5C273CFA801B320EEA8DF516882DF0E919D33C"
+    }
+  ]
+}
