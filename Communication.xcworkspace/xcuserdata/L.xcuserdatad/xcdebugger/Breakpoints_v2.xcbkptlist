@@ -49,38 +49,6 @@
             endingLineNumber = "42"
             landmarkName = "-viewDidLoad"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[TestViewController viewDidLoad]"
-                  moduleName = "APP_iOS"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/L/Bolun/APP_iOS/APP_iOS/Controllers/TestViewController.m"
-                  timestampString = "474537693.191503"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "43"
-                  endingLineNumber = "43"
-                  offsetFromSymbolStart = "88">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__33-[TestViewController viewDidLoad]_block_invoke_2"
-                  moduleName = "APP_iOS"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/L/Bolun/APP_iOS/APP_iOS/Controllers/TestViewController.m"
-                  timestampString = "474537693.195809"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "24">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
