@@ -29,7 +29,6 @@
 		0BB608521B79A13000D42A16 /* CCShareValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BB608511B79A13000D42A16 /* CCShareValue.m */; };
 		0BB6086E1B79CF6800D42A16 /* KeychainAccessGroups.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0BB6086D1B79CF6800D42A16 /* KeychainAccessGroups.plist */; };
 		0BB608731B79D6E500D42A16 /* NullSafe.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BB608721B79D6E500D42A16 /* NullSafe.m */; };
-		1C8F3CF0E669EA3E45A161F1 /* libPods-APP_iOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 162FC064ADBEBDF329190BBA /* libPods-APP_iOS.a */; };
 		2D2C97759DA28AE0DE6A2AF8 /* libPods-Communication.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 69DDDF07AE25ACC34954EF5C /* libPods-Communication.a */; };
 /* End PBXBuildFile section */
 
@@ -77,12 +76,9 @@
 		0BB6086D1B79CF6800D42A16 /* KeychainAccessGroups.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = KeychainAccessGroups.plist; sourceTree = "<group>"; };
 		0BB608701B79D30F00D42A16 /* Communication-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Communication-Prefix.pch"; sourceTree = "<group>"; };
 		0BB608721B79D6E500D42A16 /* NullSafe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NullSafe.m; sourceTree = "<group>"; };
-		162FC064ADBEBDF329190BBA /* libPods-APP_iOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-APP_iOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		41DD96B67C95C26F8486CA4F /* Pods-APP_iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-APP_iOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-APP_iOS/Pods-APP_iOS.release.xcconfig"; sourceTree = "<group>"; };
 		69DDDF07AE25ACC34954EF5C /* libPods-Communication.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Communication.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DEBA568E1AEA8384FA251D8 /* Pods-Communication.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Communication.release.xcconfig"; path = "Pods/Target Support Files/Pods-Communication/Pods-Communication.release.xcconfig"; sourceTree = "<group>"; };
 		88C9DA4F02CD5D05B0C7DE4E /* Pods-Communication.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Communication.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Communication/Pods-Communication.debug.xcconfig"; sourceTree = "<group>"; };
-		B93A43CDD882B914F0952C82 /* Pods-APP_iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-APP_iOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-APP_iOS/Pods-APP_iOS.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,7 +86,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C8F3CF0E669EA3E45A161F1 /* libPods-APP_iOS.a in Frameworks */,
 				2D2C97759DA28AE0DE6A2AF8 /* libPods-Communication.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -280,8 +275,6 @@
 		36FE9EC8A8A4F9BB45CAC220 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B93A43CDD882B914F0952C82 /* Pods-APP_iOS.debug.xcconfig */,
-				41DD96B67C95C26F8486CA4F /* Pods-APP_iOS.release.xcconfig */,
 				88C9DA4F02CD5D05B0C7DE4E /* Pods-Communication.debug.xcconfig */,
 				7DEBA568E1AEA8384FA251D8 /* Pods-Communication.release.xcconfig */,
 			);
@@ -291,7 +284,6 @@
 		81550FBD3185332D6684F4A8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				162FC064ADBEBDF329190BBA /* libPods-APP_iOS.a */,
 				69DDDF07AE25ACC34954EF5C /* libPods-Communication.a */,
 			);
 			name = Frameworks;
